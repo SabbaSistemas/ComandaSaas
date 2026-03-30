@@ -1,5 +1,5 @@
 # Comanda Saas
-Sistema SaaS para gerenciamento de comandas digitais, focado em restaurantes, bares e eventos.
+Sistema Saas para gerenciamento de comandas digitais, focado em restaurantes, bares e eventos.
 
 ## Objetivo
 O ComandaSaas tem como objetivo oferecer uma plataforma moderna e escalável para:
